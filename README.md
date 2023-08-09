@@ -10,7 +10,7 @@ The Accenture Innovation Challenge is a platform that empowers undergraduate and
 
 - **Innovative Ideas**: Submit your out-of-the-box ideas that can revolutionize industries and accelerate change through the use of technology.
 - **Community and Support**: Join a community of like-minded innovators, attend workshops to enhance your presentation skills, and receive guidance from experienced mentors.
-- **Zonal Competition**: This year introduces a zonal level competition, with winners from each zone advancing to the Grand Finale.
+- **Zonal Competition**: This year introduces a zonal-level competition, with winners from each zone advancing to the Grand Finale.
 - **Competition Structure**: The challenge comprises three rounds—Idea Submission, Semi Finale, and Grand Finale—where participants showcase their ideas and solutions.
 
 ## Eligibility Criteria & Team Formation
@@ -58,8 +58,5 @@ Participants submitting innovative ideas may receive the opportunity for roles s
 3. Submit your innovative ideas in line with team composition.
 4. Shortlisted teams will advance to subsequent rounds.
 
-For more details, visit the official [Accenture Innovation Challenge website](https://www.accenture.com/in-en/careers/accenture-innovation-challenge).
+For more details, visit the official [Accenture Innovation Challenge website]([https://www.accenture.com/in-en/careers/accenture-innovation-challenge](https://unstop.com/competitions/accenture-innovation-challenge-2023-accenture-710576?ref=FXeUIXZT)).
 
-## Contact Information
-
-For inquiries or assistance, please contact the Accenture Innovation Challenge team at [email@example.com](mailto:email@example.com).
