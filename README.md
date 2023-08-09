@@ -4,7 +4,7 @@ Welcome to the Accenture Innovation Challenge 2023! This is an exciting opportun
 
 ## About the Challenge
 
-The Accenture Innovation Challenge is a platform that empowers undergraduate and postgraduate students across India to harness the power of technology and drive meaningful change. The challenge is divided into various stages, providing participants with a chance to develop, present, and refine their innovative ideas.
+The Accenture Innovation Challenge is a platform that empowers undergraduate and postgraduate students across India to harness the power of technology and drive meaningful change. The challenge is divided into various stages, allowing participants to develop, present, and refine their innovative ideas.
 
 ## Key Highlights
 
@@ -51,12 +51,4 @@ The Accenture Innovation Challenge is a platform that empowers undergraduate and
 
 Participants submitting innovative ideas may receive the opportunity for roles such as Associate Software Engineer and System and Application Services Associate.
 
-## How to Participate
-
-1. Form a team of up to 4 members.
-2. Register and access the provided presentation templates.
-3. Submit your innovative ideas in line with team composition.
-4. Shortlisted teams will advance to subsequent rounds.
-
-For more details, visit the official [Accenture Innovation Challenge website]([https://www.accenture.com/in-en/careers/accenture-innovation-challenge](https://unstop.com/competitions/accenture-innovation-challenge-2023-accenture-710576?ref=FXeUIXZT)).
 
